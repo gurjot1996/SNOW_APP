@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="INSERT_OR_UPDATE">
+        <sc_cat_item display_value="Red tape Loafer">1f64ac41db502300cad8a455ca961989</sc_cat_item>
+        <sc_category display_value="Loafers">4214e841db502300cad8a455ca96190d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 10:05:27</sys_created_on>
+        <sys_id>59646c41db502300cad8a455ca9619f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loafers.Red tape Loafer</sys_name>
+        <sys_package display_value="TestApplication" source="x_191270_testappli">54a16001db502300cad8a455ca9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApplication">54a16001db502300cad8a455ca9619e2</sys_scope>
+        <sys_update_name>sc_cat_item_category_59646c41db502300cad8a455ca9619f8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 10:05:27</sys_updated_on>
+    </sc_cat_item_category>
+</record_update>

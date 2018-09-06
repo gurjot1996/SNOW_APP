@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <description/>
+        <display_title>false</display_title>
+        <layout>normal</layout>
+        <name>Shoe_set</name>
+        <order>100</order>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-31 11:10:12</sys_created_on>
+        <sys_id>c343b489db502300cad8a455ca96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Shoe_set</sys_name>
+        <sys_package display_value="TestApplication" source="x_191270_testappli">54a16001db502300cad8a455ca9619e2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TestApplication">54a16001db502300cad8a455ca9619e2</sys_scope>
+        <sys_update_name>item_option_new_set_c343b489db502300cad8a455ca96196c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-31 11:10:12</sys_updated_on>
+        <title/>
+    </item_option_new_set>
+</record_update>

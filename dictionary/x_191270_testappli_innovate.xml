@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Innovate" max_length="40" name="x_191270_testappli_innovate" type="collection">
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element label="New Audio" max_length="40" name="u_audio_11" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="New Choice" max_length="40" name="u_choice_1" type="string">
+            <choice/>
+        </element>
+        <element attributes="omit_sys_original=true" label="New Currency" max_length="20" name="u_currency_10" type="currency"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_12" type="data_structure"/>
+        <element label="New Data Structure" max_length="800" name="u_data_structure_4" type="data_structure"/>
+        <element label="New Date" max_length="40" name="u_glide_date_5" type="glide_date"/>
+        <element label="New Date/Time" max_length="40" name="u_glide_date_time_13" type="glide_date_time"/>
+        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="New List" max_length="1024" name="u_glide_list_2" reference="incident" type="glide_list"/>
+        <element attributes="edge_encryption_enabled=true" label="New Journal" max_length="4000" name="u_journal_8" type="journal"/>
+        <element label="New Long" max_length="40" name="u_longint_9" type="longint"/>
+        <element attributes="omit_sys_original=true,serializer=com.glide.script.PriceXMLSerializer" label="New Price" max_length="20" name="u_price_7" type="price"/>
+        <element dependent="sys_updated_on" dependent_on_field="sys_updated_on" label="New Reference" max_length="32" name="u_reference_3" reference="incident" type="reference" use_dependent_field="true"/>
+        <element label="New Name-Value Pairs" max_length="4000" name="u_simple_name_values_6" type="simple_name_values"/>
+        <index name="index">
+            <element name="u_reference_3"/>
+        </index>
+    </element>
+</database>
